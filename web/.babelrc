@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "styled-jsx/babel",
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "App": "./src/App"
+        }
+      }
+    ]
+  ]
+}

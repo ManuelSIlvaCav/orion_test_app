@@ -1,0 +1,11 @@
+.orion_button,
+.orion_button:active,
+.orion_button:hover {
+  text-transform: none;
+}
+
+.orion_primary,
+.orion_primary:active,
+.orion_primary:hover {
+  background-color: #0f2ff1;
+}
